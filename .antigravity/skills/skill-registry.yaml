@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: palauan-restitution-roadmap-and-qsf-trust-execution
-  name: Palauan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/palauan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_pw_001
+    name: Palau Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_002
+    name: Palau Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_003
+    name: Palau Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_004
+    name: Palau Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_005
+    name: Palau Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_006
+    name: Palau Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_007
+    name: Palau Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_008
+    name: Palau Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_009
+    name: Palau Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_010
+    name: Palau Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_011
+    name: Palau Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_012
+    name: Palau Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_013
+    name: Palau Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_014
+    name: Palau Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_015
+    name: Palau Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_016
+    name: Palau Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_017
+    name: Palau Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_018
+    name: Palau Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_019
+    name: Palau Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_020
+    name: Palau Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_021
+    name: Palau Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_022
+    name: Palau Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_023
+    name: Palau Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_024
+    name: Palau Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_025
+    name: Palau Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_026
+    name: Palau Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_027
+    name: Palau Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_028
+    name: Palau Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_029
+    name: Palau Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_030
+    name: Palau Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_031
+    name: Palau Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_032
+    name: Palau Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_033
+    name: Palau Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_034
+    name: Palau Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_035
+    name: Palau Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_036
+    name: Palau Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_037
+    name: Palau Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_038
+    name: Palau Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_039
+    name: Palau Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_040
+    name: Palau Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_041
+    name: Palau Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_042
+    name: Palau Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_043
+    name: Palau Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_044
+    name: Palau Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_045
+    name: Palau Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_046
+    name: Palau Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_047
+    name: Palau Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_048
+    name: Palau Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_049
+    name: Palau Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_050
+    name: Palau Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_051
+    name: Palau Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_052
+    name: Palau Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_053
+    name: Palau Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_054
+    name: Palau Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_055
+    name: Palau Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_056
+    name: Palau Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_057
+    name: Palau Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_058
+    name: Palau Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_059
+    name: Palau Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_060
+    name: Palau Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_061
+    name: Palau Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_062
+    name: Palau Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_063
+    name: Palau Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_064
+    name: Palau Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_065
+    name: Palau Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_066
+    name: Palau Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_067
+    name: Palau Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_068
+    name: Palau Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_069
+    name: Palau Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_070
+    name: Palau Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_071
+    name: Palau Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_072
+    name: Palau Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_073
+    name: Palau Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_074
+    name: Palau Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_075
+    name: Palau Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_076
+    name: Palau Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_077
+    name: Palau Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_078
+    name: Palau Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_079
+    name: Palau Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_080
+    name: Palau Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_081
+    name: Palau Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_082
+    name: Palau Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_083
+    name: Palau Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_084
+    name: Palau Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_085
+    name: Palau Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_086
+    name: Palau Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_087
+    name: Palau Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_088
+    name: Palau Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_089
+    name: Palau Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_090
+    name: Palau Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_091
+    name: Palau Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_092
+    name: Palau Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_093
+    name: Palau Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_094
+    name: Palau Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_095
+    name: Palau Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_096
+    name: Palau Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_097
+    name: Palau Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_098
+    name: Palau Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_099
+    name: Palau Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_100
+    name: Palau Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_101
+    name: Palau Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_102
+    name: Palau Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_103
+    name: Palau Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_104
+    name: Palau Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_105
+    name: Palau Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_106
+    name: Palau Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_107
+    name: Palau Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_108
+    name: Palau Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_109
+    name: Palau Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_110
+    name: Palau Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_111
+    name: Palau Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_112
+    name: Palau Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_113
+    name: Palau Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_114
+    name: Palau Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_115
+    name: Palau Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_116
+    name: Palau Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_117
+    name: Palau Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_118
+    name: Palau Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_119
+    name: Palau Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_120
+    name: Palau Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_121
+    name: Palau Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_122
+    name: Palau Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_123
+    name: Palau Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_124
+    name: Palau Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_125
+    name: Palau Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_126
+    name: Palau Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_127
+    name: Palau Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_128
+    name: Palau Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_129
+    name: Palau Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_130
+    name: Palau Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_131
+    name: Palau Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_132
+    name: Palau Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_133
+    name: Palau Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_134
+    name: Palau Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_135
+    name: Palau Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_136
+    name: Palau Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_137
+    name: Palau Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_138
+    name: Palau Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_139
+    name: Palau Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_140
+    name: Palau Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_141
+    name: Palau Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_142
+    name: Palau Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_143
+    name: Palau Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_144
+    name: Palau Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_145
+    name: Palau Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_146
+    name: Palau Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_147
+    name: Palau Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_148
+    name: Palau Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_149
+    name: Palau Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_150
+    name: Palau Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_151
+    name: Palau Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_152
+    name: Palau Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_153
+    name: Palau Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_154
+    name: Palau Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_155
+    name: Palau Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_156
+    name: Palau Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_157
+    name: Palau Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_158
+    name: Palau Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_159
+    name: Palau Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_160
+    name: Palau Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_161
+    name: Palau Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_162
+    name: Palau Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_163
+    name: Palau Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_164
+    name: Palau Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_165
+    name: Palau Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_166
+    name: Palau Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_167
+    name: Palau Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_168
+    name: Palau Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_169
+    name: Palau Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_170
+    name: Palau Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_171
+    name: Palau Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_172
+    name: Palau Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_173
+    name: Palau Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_174
+    name: Palau Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_175
+    name: Palau Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_176
+    name: Palau Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_177
+    name: Palau Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_178
+    name: Palau Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_179
+    name: Palau Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_180
+    name: Palau Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_181
+    name: Palau Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_182
+    name: Palau Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_183
+    name: Palau Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_184
+    name: Palau Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_185
+    name: Palau Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_186
+    name: Palau Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_187
+    name: Palau Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_188
+    name: Palau Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_189
+    name: Palau Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_190
+    name: Palau Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_191
+    name: Palau Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_192
+    name: Palau Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_193
+    name: Palau Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_194
+    name: Palau Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_195
+    name: Palau Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_196
+    name: Palau Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_197
+    name: Palau Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_198
+    name: Palau Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_199
+    name: Palau Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_200
+    name: Palau Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_201
+    name: Palau Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_202
+    name: Palau Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_203
+    name: Palau Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_204
+    name: Palau Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_205
+    name: Palau Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_206
+    name: Palau Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_207
+    name: Palau Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_208
+    name: Palau Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_209
+    name: Palau Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_210
+    name: Palau Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_211
+    name: Palau Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_212
+    name: Palau Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_213
+    name: Palau Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_214
+    name: Palau Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_215
+    name: Palau Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_216
+    name: Palau Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_217
+    name: Palau Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_218
+    name: Palau Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_219
+    name: Palau Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_220
+    name: Palau Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_221
+    name: Palau Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_222
+    name: Palau Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_223
+    name: Palau Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_224
+    name: Palau Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_225
+    name: Palau Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_226
+    name: Palau Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_227
+    name: Palau Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_228
+    name: Palau Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_229
+    name: Palau Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_230
+    name: Palau Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_231
+    name: Palau Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_232
+    name: Palau Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_233
+    name: Palau Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_234
+    name: Palau Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_235
+    name: Palau Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_236
+    name: Palau Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_237
+    name: Palau Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_238
+    name: Palau Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_239
+    name: Palau Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_240
+    name: Palau Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_241
+    name: Palau Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_242
+    name: Palau Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_243
+    name: Palau Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_244
+    name: Palau Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_245
+    name: Palau Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_246
+    name: Palau Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_247
+    name: Palau Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_248
+    name: Palau Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_249
+    name: Palau Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_250
+    name: Palau Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_251
+    name: Palau Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_pw_252
+    name: Palau Skill 252
+    status: ACTIVE_SCAFFOLD

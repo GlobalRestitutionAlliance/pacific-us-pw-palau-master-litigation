@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-palau-canal-and-intervention-historian
-  name: Palau Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-palau-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_pw_001
+    name: Palau Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_002
+    name: Palau Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_003
+    name: Palau Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_004
+    name: Palau Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_005
+    name: Palau Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_006
+    name: Palau Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_007
+    name: Palau Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_008
+    name: Palau Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_009
+    name: Palau Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_010
+    name: Palau Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_011
+    name: Palau Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_012
+    name: Palau Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_013
+    name: Palau Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_014
+    name: Palau Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_015
+    name: Palau Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_016
+    name: Palau Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_017
+    name: Palau Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_018
+    name: Palau Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_019
+    name: Palau Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_020
+    name: Palau Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_021
+    name: Palau Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_022
+    name: Palau Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_023
+    name: Palau Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_024
+    name: Palau Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_025
+    name: Palau Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_026
+    name: Palau Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_027
+    name: Palau Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_028
+    name: Palau Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_029
+    name: Palau Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_030
+    name: Palau Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_031
+    name: Palau Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_032
+    name: Palau Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_033
+    name: Palau Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_034
+    name: Palau Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_035
+    name: Palau Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_036
+    name: Palau Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_037
+    name: Palau Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_038
+    name: Palau Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_039
+    name: Palau Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_040
+    name: Palau Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_041
+    name: Palau Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_042
+    name: Palau Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_043
+    name: Palau Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_044
+    name: Palau Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_045
+    name: Palau Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_046
+    name: Palau Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_047
+    name: Palau Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_048
+    name: Palau Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_049
+    name: Palau Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_050
+    name: Palau Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_051
+    name: Palau Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_052
+    name: Palau Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_053
+    name: Palau Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_054
+    name: Palau Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_055
+    name: Palau Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_056
+    name: Palau Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_057
+    name: Palau Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_058
+    name: Palau Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_059
+    name: Palau Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_060
+    name: Palau Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_061
+    name: Palau Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_062
+    name: Palau Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_063
+    name: Palau Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_064
+    name: Palau Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_065
+    name: Palau Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_066
+    name: Palau Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_067
+    name: Palau Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_068
+    name: Palau Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_069
+    name: Palau Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_070
+    name: Palau Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_071
+    name: Palau Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_072
+    name: Palau Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_073
+    name: Palau Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_074
+    name: Palau Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_075
+    name: Palau Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_076
+    name: Palau Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_077
+    name: Palau Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_078
+    name: Palau Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_079
+    name: Palau Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_080
+    name: Palau Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_081
+    name: Palau Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_082
+    name: Palau Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_083
+    name: Palau Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_084
+    name: Palau Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_085
+    name: Palau Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_086
+    name: Palau Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_087
+    name: Palau Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_088
+    name: Palau Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_089
+    name: Palau Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_090
+    name: Palau Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_091
+    name: Palau Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_092
+    name: Palau Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_093
+    name: Palau Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_094
+    name: Palau Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_095
+    name: Palau Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_096
+    name: Palau Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_097
+    name: Palau Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_098
+    name: Palau Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_099
+    name: Palau Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_100
+    name: Palau Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_101
+    name: Palau Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_102
+    name: Palau Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_103
+    name: Palau Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_104
+    name: Palau Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_105
+    name: Palau Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_106
+    name: Palau Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_107
+    name: Palau Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_108
+    name: Palau Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_109
+    name: Palau Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_110
+    name: Palau Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_111
+    name: Palau Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_112
+    name: Palau Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_113
+    name: Palau Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_114
+    name: Palau Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_115
+    name: Palau Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_116
+    name: Palau Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_117
+    name: Palau Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_118
+    name: Palau Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_119
+    name: Palau Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_120
+    name: Palau Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_121
+    name: Palau Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_122
+    name: Palau Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_123
+    name: Palau Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_124
+    name: Palau Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_125
+    name: Palau Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_126
+    name: Palau Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_127
+    name: Palau Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_128
+    name: Palau Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_129
+    name: Palau Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_130
+    name: Palau Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_131
+    name: Palau Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_132
+    name: Palau Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_133
+    name: Palau Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_134
+    name: Palau Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_135
+    name: Palau Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_136
+    name: Palau Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_137
+    name: Palau Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_138
+    name: Palau Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_139
+    name: Palau Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_140
+    name: Palau Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_141
+    name: Palau Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_142
+    name: Palau Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_143
+    name: Palau Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_144
+    name: Palau Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_145
+    name: Palau Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_146
+    name: Palau Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_147
+    name: Palau Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_148
+    name: Palau Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_149
+    name: Palau Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_150
+    name: Palau Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_151
+    name: Palau Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_152
+    name: Palau Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_153
+    name: Palau Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_154
+    name: Palau Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_155
+    name: Palau Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_156
+    name: Palau Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_157
+    name: Palau Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_158
+    name: Palau Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_159
+    name: Palau Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_160
+    name: Palau Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_161
+    name: Palau Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_162
+    name: Palau Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_163
+    name: Palau Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_164
+    name: Palau Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_165
+    name: Palau Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_166
+    name: Palau Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_167
+    name: Palau Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_168
+    name: Palau Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_169
+    name: Palau Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_pw_170
+    name: Palau Agent 170
+    status: ACTIVE_SCAFFOLD
